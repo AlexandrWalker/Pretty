@@ -162,7 +162,7 @@ html {
 }
 
 body {
-  height: auto;
+  height: 100%;
   overflow-x: hidden;
   min-width: 320px;
   font-family: "Proxima Nova", sans-serif;
@@ -317,9 +317,7 @@ body {
   background-color: #2E2D2D;
 }
 
-.burger__svg {
-  
-}
+.burger__svg {}
 
 .burger__item {
   display: flex;
